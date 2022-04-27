@@ -1,6 +1,5 @@
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React, { useState } from 'react';
 import './Product.css'
 // Product card components
 const Product = (props) => {
